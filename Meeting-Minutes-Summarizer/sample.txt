@@ -1,0 +1,54 @@
+================================------------------
+               MEETING MINUTES
+================================------------------
+
+Meeting Name   : Q3 Product Roadmap Sync
+Date & Time    : October 28, 2026, 10:00 AM - 11:00 AM IST
+Location       : Conference Room B / Video Call (Teams)
+Chairperson    : Ankit Aurora
+Note-Taker     : Priya Sharma
+
+--------------------------------------------------
+ATTENDEES
+--------------------------------------------------
+Present:
+- Ankit Aurora (President)
+- Priya Sharma (Project Lead)
+- Rohan Verma (Lead Developer)
+- Sneha Patel (UI/UX Designer)
+
+Absent / Apologies:
+- Vikram Singh (QA Engineer)
+
+--------------------------------------------------
+AGENDA ITEMS & DISCUSSION SUMMARY
+--------------------------------------------------
+1. Review of Previous Action Items
+   - Summary: The team reviewed pending tasks from the last meeting. Design mockups for the user dashboard were delayed due to scope changes.
+
+2. Q3 Feature Prioritization
+   - Summary: Discussed shifting focus to mobile responsiveness first. Rohan confirmed backend APIs can support the new update by mid-November.
+
+3. Timeline & Next Steps
+   - Summary: Agreed to lock in final designs by Friday. Testing phase moves to November 20.
+
+--------------------------------------------------
+ACTION ITEMS
+--------------------------------------------------
+[Ref]  | [Task Description]              | [Assigned To] | [Deadline]
+--------------------------------------------------
+AI-01  | Finalize mobile UI mockups      | Sneha Patel   | Oct 31, 2026
+AI-02  | Deploy staging API environment  | Rohan Verma   | Nov 05, 2026
+AI-03  | Prepare test cases script       | Vikram Singh  | Nov 12, 2026
+
+--------------------------------------------------
+NEXT MEETING
+--------------------------------------------------
+Date   : November 4, 2026
+Time   : 10:00 AM IST
+Venue  : Conference Room B
+
+--------------------------------------------------
+Minutes Prepared By : Priya Sharma
+Date Submitted      : October 28, 2026
+================================------------------
