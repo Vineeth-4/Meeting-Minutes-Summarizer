@@ -1,0 +1,216 @@
+MEETING MINUTES
+Product Launch Planning – Project Nova
+
+Meeting Date: 28 October 2026
+Time: 10:00 AM – 11:15 AM
+Location: Conference Room B / Microsoft Teams
+Meeting Type: Project Planning
+Meeting Chair: Sarah Mitchell (Project Manager)
+Note Taker: Daniel Wilson
+
+1. ATTENDEES
+
+1. Sarah Mitchell – Project Manager
+2. James Anderson – Lead Software Developer
+3. Priya Sharma – UI/UX Designer
+4. Daniel Wilson – Marketing Manager
+5. Michael Chen – QA Engineer
+6. Emily Roberts – Product Owner
+
+Absent: Robert Taylor – Finance Manager (informed absence)
+
+2. MEETING AGENDA
+
+1. Review current development progress.
+2. Discuss outstanding technical issues.
+3. Finalize the product launch date.
+4. Review marketing and promotional activities.
+5. Discuss budget requirements.
+6. Assign responsibilities and establish deadlines.
+
+3. DISCUSSION SUMMARY
+
+3.1 Development Progress
+
+James provided an update on the development of Project Nova, a cloud-based task management application designed for small and medium-sized businesses.
+
+Approximately 85% of the planned development work has been completed. The authentication system, dashboard, task assignment functionality, and notification system are fully implemented.
+
+However, the team is experiencing delays with the third-party calendar integration. The original API documentation contained outdated information, resulting in additional development work.
+
+James estimated that the integration would require another five working days. He also mentioned that the application currently performs well with up to 500 concurrent users, but additional load testing is necessary before public release.
+
+Sarah asked whether the delay would affect the proposed launch date. James said it was possible but believed the team could recover the lost time if no additional technical problems emerged.
+
+3.2 UI/UX Design Review
+
+Priya presented the latest application interface.
+
+The dashboard redesign received positive feedback from the team. However, Emily pointed out that the onboarding process still required too many steps and could discourage new users.
+
+Priya suggested reducing the onboarding process from six screens to four. She estimated that the changes would take approximately three working days.
+
+James confirmed that the proposed changes would not require significant backend modifications.
+
+The team agreed that improving the onboarding experience was more important than adding additional visual customization options before launch.
+
+3.3 Quality Assurance and Testing
+
+Michael reported that QA had identified 23 bugs during the latest testing cycle.
+
+- 15 bugs have been resolved.
+- 5 bugs are classified as low priority.
+- 3 bugs are classified as high priority.
+
+The three high-priority bugs involve notification delivery, incorrect task status updates, and occasional dashboard loading failures.
+
+Michael emphasized that the application should not be released until all high-priority bugs are resolved.
+
+He requested an additional seven days for regression testing after the development team completes its fixes.
+
+Sarah agreed that quality assurance should not be compromised to meet the launch deadline.
+
+3.4 Product Launch Date
+
+The original proposed launch date was 20 November 2026.
+
+Considering the calendar integration delay, UI improvements, and additional testing requirements, Sarah proposed moving the launch to 30 November 2026.
+
+Daniel expressed concern that changing the launch date would affect the marketing campaign, which was originally scheduled to begin on 10 November.
+
+Emily suggested maintaining the marketing campaign date but focusing the initial promotional activities on product demonstrations and early-access registrations rather than announcing an immediate public release.
+
+After discussion, everyone agreed to retain 30 November 2026 as the tentative launch date.
+
+The date will be confirmed after the next development and QA review on 13 November.
+
+3.5 Marketing Strategy
+
+Daniel presented the proposed marketing plan.
+
+The campaign will primarily target small businesses, startup founders, and project management teams.
+
+The proposed promotional channels include:
+
+- LinkedIn marketing and sponsored posts.
+- Instagram reels and short product demonstrations.
+- Email campaigns targeting existing subscribers.
+- Blog articles highlighting productivity challenges.
+- A live product demonstration webinar.
+
+Daniel requested a marketing budget of ₹1,50,000.
+
+Sarah mentioned that the original approved budget was only ₹1,00,000. Since Robert from Finance was absent, the additional ₹50,000 could not be approved during this meeting.
+
+Daniel agreed to prepare a revised marketing budget with separate essential and optional expenses.
+
+The team also discussed offering a 30-day free trial to early users. Emily supported the idea, stating that it could increase initial adoption and provide valuable feedback.
+
+However, the pricing structure and trial eligibility criteria have not yet been finalized.
+
+3.6 Infrastructure and Performance
+
+James explained that the current cloud infrastructure should support the initial user base.
+
+However, the infrastructure may need to be upgraded if the application experiences rapid adoption.
+
+The estimated additional monthly infrastructure cost would be between ₹12,000 and ₹18,000.
+
+Sarah requested that James prepare two infrastructure estimates: one for the expected initial user base and another for a scenario involving 5,000 concurrent users.
+
+The team agreed not to approve any infrastructure upgrade until the estimates are reviewed.
+
+4. DECISIONS MADE
+
+1. The tentative public launch date has been moved from 20 November to 30 November 2026.
+2. The launch date will be formally confirmed during the 13 November review meeting.
+3. The onboarding process will be reduced from six screens to four.
+4. All high-priority bugs must be resolved before release.
+5. QA will receive seven additional days for regression testing.
+6. The marketing campaign will begin on 10 November, focusing initially on demonstrations and early-access registrations.
+7. The proposed ₹1,50,000 marketing budget requires further financial approval.
+8. The 30-day free trial proposal will be evaluated before the final pricing announcement.
+9. No infrastructure upgrade will be approved until the revised cost estimates are reviewed.
+
+5. ACTION ITEMS
+
+ID: A01
+Action: Complete calendar API integration
+Assigned to: James Anderson
+Deadline: 4 November 2026
+Priority: High
+
+ID: A02
+Action: Redesign onboarding process from six screens to four
+Assigned to: Priya Sharma
+Deadline: 4 November 2026
+Priority: Medium
+
+ID: A03
+Action: Resolve all three high-priority bugs
+Assigned to: James Anderson
+Deadline: 6 November 2026
+Priority: Critical
+
+ID: A04
+Action: Complete revised marketing budget
+Assigned to: Daniel Wilson
+Deadline: 5 November 2026
+Priority: High
+
+ID: A05
+Action: Obtain approval for additional marketing expenditure
+Assigned to: Sarah Mitchell / Robert Taylor
+Deadline: 9 November 2026
+Priority: High
+
+ID: A06
+Action: Prepare infrastructure cost estimates for 500 and 5,000 concurrent users
+Assigned to: James Anderson
+Deadline: 9 November 2026
+Priority: Medium
+
+ID: A07
+Action: Prepare regression testing plan
+Assigned to: Michael Chen
+Deadline: 7 November 2026
+Priority: High
+
+ID: A08
+Action: Evaluate the 30-day free trial and pricing structure
+Assigned to: Emily Roberts
+Deadline: 11 November 2026
+Priority: Medium
+
+ID: A09
+Action: Prepare marketing campaign materials
+Assigned to: Daniel Wilson
+Deadline: 9 November 2026
+Priority: High
+
+6. UNRESOLVED ISSUES
+
+1. Whether the proposed ₹50,000 additional marketing expenditure will be approved.
+2. Whether the 30-day free trial will be available to all users or restricted to early registrations.
+3. Whether the existing cloud infrastructure will be sufficient for the anticipated launch traffic.
+4. Whether all development and testing activities can be completed in time for the proposed 30 November launch.
+
+7. NEXT MEETING
+
+Date: 13 November 2026
+Time: 10:00 AM
+Location: Conference Room B / Microsoft Teams
+
+Planned Agenda:
+- Review development progress.
+- Verify resolution of high-priority bugs.
+- Review QA readiness.
+- Approve or revise the launch date.
+- Finalize the marketing budget.
+- Review infrastructure cost estimates.
+- Confirm the free trial and pricing strategy.
+
+Meeting Adjourned: 11:15 AM
+
+Minutes Prepared By: Daniel Wilson
+Document Status: Draft – Pending Approval
